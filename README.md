@@ -7,7 +7,7 @@ I am a third year B.Tech Student at Manipal University Jaipur with a profound in
 
 Motivated student pursuing a degree in Computers and Communication Engineering. Hardworking and resourceful team member, praised for exceptional collaboration, organizational, and management abilities. With valuable internship experience, I am committed to developing a career in cybersecurity.
 
-<div><script href="https://tryhackme.com/p/InfiniteHax"><img src="https://tryhackme-badges.s3.amazonaws.com/InfiniteHax.png" alt="TryHackMe"></script></div> 
+<div><a href="https://tryhackme.com/p/InfiniteHax"><img src="https://tryhackme-badges.s3.amazonaws.com/InfiniteHax.png" alt="TryHackMe"></a></div> 
 
 ## Skills
 
