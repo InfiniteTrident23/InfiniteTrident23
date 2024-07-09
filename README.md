@@ -13,7 +13,7 @@ Motivated student pursuing a degree in Computers and Communication Engineering. 
 
 | Skills                                        | Associated Certificates    |
 |-----------------------------------------------|----------------------------|
-|Vulnerability Assesment|<img src="https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-SLB3X9W6NY.png">|
+|Vulnerability Assesment|<img src="https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-SLB3X9W6NY.png" ="250" ="400">|
 |Web Security||
 |Network Enumeration|(Same as above)|
 |Password Cracking|<img src="">|
