@@ -17,7 +17,7 @@ Motivated student pursuing a degree in Computers and Communication Engineering. 
 |Web Security||
 |Network Enumeration|(Same as above)|
 |Password Cracking|<img src="">|
-|Linux and Windows Fundamental|<img src="https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-XQTRIZUBYX.png">|
+|Linux and Windows Fundamental|<img src="https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-XQTRIZUBYX.png" style="width:350px;height:250x;">|
 
 ## Tools
 - Network: Nmap, Zenmap, Wireshark, etc.
