@@ -13,7 +13,7 @@ Motivated student pursuing a degree in Computers and Communication Engineering. 
 
 | Skills                                        | Associated Certificates    |
 |-----------------------------------------------|----------------------------|
-|Networking|<img src="![CCNA Certificate](https://github.com/InfiniteTrident23/InfiniteTrident23/assets/128295541/540ee807-0676-4a20-88ea-8c4a5231ef6c)" style="width:350px;height:250x;">|
+|Networking|<img src="https://github.com/InfiniteTrident23/InfiniteTrident23/assets/128295541/540ee807-0676-4a20-88ea-8c4a5231ef6c" style="width:350px;height:250x;">|
 |Vulnerability Assesment|<img src="https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-SLB3X9W6NY.png" style="width:350px;height:250x;">|
 |Web Security||
 |Network Enumeration|(Same as above)|
