@@ -1,4 +1,5 @@
 # Hello, I'm Siddharth Nigam
+<div><a href="https://tryhackme.com/p/InfiniteHax"><img src="https://tryhackme-badges.s3.amazonaws.com/InfiniteHax.png" alt="TryHackMe"></a></div> 
 <a href="[https://linkedin.com](https://www.linkedin.com/in/siddharth-nigam-a7bab1257/)"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 I am a third year B.Tech Student at Manipal University Jaipur with a profound interest in Cyber Security and a dedication to solving complex problems.
@@ -6,8 +7,6 @@ I am a third year B.Tech Student at Manipal University Jaipur with a profound in
 ## Objective
 
 Motivated student pursuing a degree in Computers and Communication Engineering. Hardworking and resourceful team member, praised for exceptional collaboration, organizational, and management abilities. With valuable internship experience, I am committed to developing a career in cybersecurity.
-
-<div><a href="https://tryhackme.com/p/InfiniteHax"><img src="https://tryhackme-badges.s3.amazonaws.com/InfiniteHax.png" alt="TryHackMe"></a></div> 
 
 ## Skills
 
