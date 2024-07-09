@@ -18,7 +18,7 @@ Motivated student pursuing a degree in Computers and Communication Engineering. 
 |Linux and Windows Fundamental|<img src="https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-XQTRIZUBYX.png" style="width:350px;height:250x;">|
 |Web Security|<img src="https://tryhackme.com/InfiniteHax/badges/intro-to-web-hacking" style="width:350px;height:250x;">|
 |Network Enumeration|<img src="https://tryhackme.com/InfiniteHax/badges/network-fundamentals" style="width:350px;height:250x;">|
-|Password Cracking|<img src="https://tryhackme.com/InfiniteHax/badges/hash-cracker" style="width:350px;height:250x;">|
+|Password Cracking|<img src="[https://tryhackme.com/InfiniteHax/badges/hash-cracker](https://tryhackme.com/img/illustrations/waves.svg)" style="width:350px;height:250x;">|
 
 ## Tools
 - Network: Nmap, Zenmap, Wireshark, etc.
