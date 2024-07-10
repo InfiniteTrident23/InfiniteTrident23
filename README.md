@@ -42,7 +42,7 @@ Motivated student pursuing a degree in Computers and Communication Engineering. 
 - Active Directory setup
 - Domain enumeration: Dirsearch, gobuster, etc.
 
-### Endpoint
+## Endpoint
 - Cortex XDR
 - Sentinel One
 - Microsoft Defender
