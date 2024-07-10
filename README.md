@@ -40,3 +40,6 @@ Motivated student pursuing a degree in Computers and Communication Engineering. 
 - EC Council EHE
 
 ## Projects
+- <a href="https://github.com/InfiniteTrident23/Warehouse-Management">Warehouse Management System</a>
+- <a href="https://github.com/InfiniteTrident23/C.L.A.I.R.E-Demo">Python Voice Assistant</a>
+- <a href="https://github.com/InfiniteTrident23/Miscellaneous-Python-Projects">Miscellaneous Python Projects...</a>
