@@ -19,6 +19,10 @@ Motivated student pursuing a degree in Computers and Communication Engineering. 
 |Network Enumeration|<img src="https://github.com/InfiniteTrident23/InfiniteTrident23/assets/128295541/097ed121-72bf-466a-b47a-5ffca0f7c6e2" style="width:350px;height:250x;">|
 |Password Cracking|<img src="https://github.com/InfiniteTrident23/InfiniteTrident23/assets/128295541/fdd97e3d-4ea6-4eb8-a9ca-ac6e4b8ca865" style="width:350px;height:250x;">|
 
+## Expierience
+- Devskillhub Cybersecurity training and Internship
+    - [CYBER_SECURITY_INTERNSHIP-Siddharth_Nigam_Devskillhub.pdf](https://github.com/user-attachments/files/16160045/CYBER_SECURITY_INTERNSHIP-Siddharth_Nigam_Devskillhub.pdf)
+
 ## Tools
 - Network: Nmap, Zenmap, Wireshark, etc.
 - Metasploit Framework: For vulnerabilty assesment and exploitation
