@@ -32,7 +32,7 @@ Motivated student pursuing a degree in Computers and Communication Engineering. 
 - Devskillhub Cybersecurity training and Internship
   - Gained valuable experience working within a specific industry, applying learned concepts directly into relevant work situations.
   - Gained hands-on experience in various software programs, increasing proficiency and expanding technical skill set.
-  - ![image](https://github.com/InfiniteTrident23/InfiniteTrident23/assets/128295541/9f4695d3-bd6e-4d1e-ac5c-5382b293fbd2)
+  - <img src="https://github.com/InfiniteTrident23/InfiniteTrident23/assets/128295541/9f4695d3-bd6e-4d1e-ac5c-5382b293fbd2" style="width:350px;height:250x;">
 
 ## Tools
 - Network: Nmap, Zenmap, Wireshark, etc.
