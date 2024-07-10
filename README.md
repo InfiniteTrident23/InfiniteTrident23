@@ -29,7 +29,7 @@ Motivated student pursuing a degree in Computers and Communication Engineering. 
     - Provided technical support during scheduled maintenance windows, ensuring minimal disruption to critical systems.
     - Participated in tabletop exercises designed to simulate real-world cyber-attack scenarios, enhancing preparedness levels among team members.
     - 
-- Devskillhub Cybersecurity training and Internship
+- Devskillhub Cybersecurity training and Internship; 04/2024-06/2024, Devskillhub
   - Gained valuable experience working within a specific industry, applying learned concepts directly into relevant work situations.
   - Gained hands-on experience in various software programs, increasing proficiency and expanding technical skill set.
   - <img src="https://github.com/InfiniteTrident23/InfiniteTrident23/assets/128295541/9f4695d3-bd6e-4d1e-ac5c-5382b293fbd2" style="width:350px;height:250x;">
