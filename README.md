@@ -20,8 +20,19 @@ Motivated student pursuing a degree in Computers and Communication Engineering. 
 |Password Cracking|<img src="https://github.com/InfiniteTrident23/InfiniteTrident23/assets/128295541/fdd97e3d-4ea6-4eb8-a9ca-ac6e4b8ca865" style="width:350px;height:250x;">|
 
 ## Expierience
+- Cyber-security Intern; 05/2024-07/2024, Wesecure Technologies - New Delhi, India
+    -  Reviewed firewall configurations and rulesets for optimal performance, reducing exposure to external threats.
+    - Evaluated new cybersecurity tools and technologies, ensuring that the organization remained up-to- date on industry best practices.
+    - Evaluated new cybersecurity tools and technologies, ensuring that the organization remained up-to- date on industry best practices.
+    - Maintained detailed documentation of cybersecurity incidents and remediation efforts for future reference and analysis purposes.
+    - Assisted in the development and enforcement of security policies related to mobile devices and remote access, safeguarding sensitive data.
+    - Provided technical support during scheduled maintenance windows, ensuring minimal disruption to critical systems.
+    - Participated in tabletop exercises designed to simulate real-world cyber-attack scenarios, enhancing preparedness levels among team members.
+    - 
 - Devskillhub Cybersecurity training and Internship
-    - [CYBER_SECURITY_INTERNSHIP-Siddharth_Nigam_Devskillhub.pdf](https://github.com/user-attachments/files/16160045/CYBER_SECURITY_INTERNSHIP-Siddharth_Nigam_Devskillhub.pdf)
+  - Gained valuable experience working within a specific industry, applying learned concepts directly into relevant work situations.
+  - Gained hands-on experience in various software programs, increasing proficiency and expanding technical skill set.
+  - ![image](https://github.com/InfiniteTrident23/InfiniteTrident23/assets/128295541/9f4695d3-bd6e-4d1e-ac5c-5382b293fbd2)
 
 ## Tools
 - Network: Nmap, Zenmap, Wireshark, etc.
