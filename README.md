@@ -1,4 +1,4 @@
-<p align="center"># Hello, I'm Siddharth Nigam</p>
+# <p align="center"> Hello, I'm Siddharth Nigam</p>
 <p align="center"><img src="https://tryhackme-badges.s3.amazonaws.com/InfiniteHax.png" alt="TryHackMe"></p>
 <p align="center"><a href="[https://linkedin.com](https://www.linkedin.com/in/siddharth-nigam-a7bab1257/)"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a></p>
 
