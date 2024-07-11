@@ -1,5 +1,5 @@
 # Hello, I'm Siddharth Nigam
-<div><p align="center"><a href="https://tryhackme.com/p/InfiniteHax"><img src="https://tryhackme-badges.s3.amazonaws.com/InfiniteHax.png" alt="TryHackMe"></a></p></div> 
+<div><script src="https://tryhackme.com/badge/2771437"></script></div>
 <p align="center"><a href="[https://linkedin.com](https://www.linkedin.com/in/siddharth-nigam-a7bab1257/)"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a></p>
 
 I am a third year B.Tech Student at Manipal University Jaipur with a profound interest in Cyber Security and a dedication to solving complex problems.
