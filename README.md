@@ -8,6 +8,34 @@ I am a third year B.Tech Student at Manipal University Jaipur with a profound in
 
 Motivated student pursuing a degree in Computers and Communication Engineering. Hardworking and resourceful team member, praised for exceptional collaboration, organizational, and management abilities. With valuable internship experience, I am committed to developing a career in cybersecurity.
 
+## Projects
+- <a href="https://github.com/InfiniteTrident23/AD-security-Project">Active Directory Security Lab</a>
+- <a href="https://github.com/InfiniteTrident23/Warehouse-Management">Warehouse Management System</a>
+- <a href="https://github.com/InfiniteTrident23/C.L.A.I.R.E-Demo">Python Voice Assistant</a>
+- <a href="https://github.com/InfiniteTrident23/Miscellaneous-Python-Projects">Miscellaneous Python Projects...</a>
+
+## Expierience
+- Cyber-security Intern; 05/2024-07/2024, Wesecure Technologies - New Delhi, India
+    - Reviewed firewall configurations and rulesets for optimal performance, reducing exposure to external threats.
+    - Evaluated new cybersecurity tools and technologies, ensuring that the organization remained up-to- date on industry best practices.
+    - Evaluated new cybersecurity tools and technologies, ensuring that the organization remained up-to- date on industry best practices.
+    - Maintained detailed documentation of cybersecurity incidents and remediation efforts for future reference and analysis purposes.
+    - Assisted in the development and enforcement of security policies related to mobile devices and remote access, safeguarding sensitive data.
+    - Provided technical support during scheduled maintenance windows, ensuring minimal disruption to critical systems.
+    - Participated in tabletop exercises designed to simulate real-world cyber-attack scenarios, enhancing preparedness levels among team members.
+
+- Devskillhub Cybersecurity training and Internship; 04/2024-06/2024, Devskillhub
+  - Gained valuable experience working within a specific industry, applying learned concepts directly into relevant work situations.
+  - Gained hands-on experience in various software programs, increasing proficiency and expanding technical skill set.
+ 
+## Tools
+- Network Security Analysis: Snort, Zeek, Wazuh, NetworkMiner, etc.
+- Network Enumeration: Nmap, Zenmap, Wireshark, etc.
+- Metasploit Framework: For vulnerabilty assesment and exploitation
+- Password Cracking: John The Ripper, Hydra, Cracksstation, etc.
+- Web Security: Burp Suite, SQLMap, SQLI attacks, etc.
+- Active Directory setup
+- Domain enumeration: Dirsearch, gobuster, etc.
 ## Skills
 
 | Skills                                        | Associated Certificates    |
@@ -19,30 +47,7 @@ Motivated student pursuing a degree in Computers and Communication Engineering. 
 |Network Enumeration|<img src="https://github.com/InfiniteTrident23/InfiniteTrident23/assets/128295541/097ed121-72bf-466a-b47a-5ffca0f7c6e2" style="width:350px;height:250x;">|
 |Password Cracking|<img src="https://github.com/InfiniteTrident23/InfiniteTrident23/assets/128295541/fdd97e3d-4ea6-4eb8-a9ca-ac6e4b8ca865" style="width:350px;height:250x;">|
 
-## Expierience
-- Cyber-security Intern; 05/2024-07/2024, Wesecure Technologies - New Delhi, India
-    -  Reviewed firewall configurations and rulesets for optimal performance, reducing exposure to external threats.
-    - Evaluated new cybersecurity tools and technologies, ensuring that the organization remained up-to- date on industry best practices.
-    - Evaluated new cybersecurity tools and technologies, ensuring that the organization remained up-to- date on industry best practices.
-    - Maintained detailed documentation of cybersecurity incidents and remediation efforts for future reference and analysis purposes.
-    - Assisted in the development and enforcement of security policies related to mobile devices and remote access, safeguarding sensitive data.
-    - Provided technical support during scheduled maintenance windows, ensuring minimal disruption to critical systems.
-    - Participated in tabletop exercises designed to simulate real-world cyber-attack scenarios, enhancing preparedness levels among team members.
-    - 
-- Devskillhub Cybersecurity training and Internship; 04/2024-06/2024, Devskillhub
-  - Gained valuable experience working within a specific industry, applying learned concepts directly into relevant work situations.
-  - Gained hands-on experience in various software programs, increasing proficiency and expanding technical skill set.
-  - <img src="https://github.com/InfiniteTrident23/InfiniteTrident23/assets/128295541/9f4695d3-bd6e-4d1e-ac5c-5382b293fbd2" style="width:350px;height:250x;">
-
-## Tools
-- Network: Nmap, Zenmap, Wireshark, etc.
-- Metasploit Framework: For vulnerabilty assesment and exploitation
-- Password Cracking: John The Ripper, Hydra, Cracksstation, etc.
-- Web Security: Burp Suite, SQLMap, SQLI attacks, etc.
-- Active Directory setup
-- Domain enumeration: Dirsearch, gobuster, etc.
-
-## Endpoint
+## Endpoint Expirience
 - Cortex XDR
 - Sentinel One
 - Microsoft Defender
@@ -53,8 +58,3 @@ Motivated student pursuing a degree in Computers and Communication Engineering. 
 - CCNA Certified
 - Cisco Ethical Hacker
 - EC Council EHE
-
-## Projects
-- <a href="https://github.com/InfiniteTrident23/Warehouse-Management">Warehouse Management System</a>
-- <a href="https://github.com/InfiniteTrident23/C.L.A.I.R.E-Demo">Python Voice Assistant</a>
-- <a href="https://github.com/InfiniteTrident23/Miscellaneous-Python-Projects">Miscellaneous Python Projects...</a>
