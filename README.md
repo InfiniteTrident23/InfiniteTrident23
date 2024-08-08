@@ -1,6 +1,6 @@
 # <p align="center"> Hello, I'm Siddharth Nigam</p>
 <p align="center"><img src="https://github.com/user-attachments/assets/99eb551e-5265-4c37-98c8-f81484511155"></p>
-<p align="center"><a href="[https://linkedin.com](https://www.linkedin.com/in/siddharth-nigam-a7bab1257/)"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a></p>
+<p align="center"><a href="https://www.linkedin.com/in/siddharth-nigam-a7bab1257/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a></p>
 
 I am a third year B.Tech Student at Manipal University Jaipur with a profound interest in Cyber Security and a dedication to solving complex problems.
 
