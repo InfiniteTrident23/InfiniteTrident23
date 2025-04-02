@@ -14,7 +14,7 @@ Motivated student pursuing a degree in Computers and Communication Engineering. 
 - <a href="https://github.com/InfiniteTrident23/C.L.A.I.R.E-Demo">Python Voice Assistant</a>
 - <a href="https://github.com/InfiniteTrident23/Miscellaneous-Python-Projects">Miscellaneous Python Projects...</a>
 
-## Expierience
+## Experience
 - Cyber-security Intern; 05/2024-07/2024, Wesecure Technologies - New Delhi, India
     - Reviewed firewall configurations and rulesets for optimal performance, reducing exposure to external threats.
     - Evaluated new cybersecurity tools and technologies, ensuring that the organization remained up-to- date on industry best practices.
