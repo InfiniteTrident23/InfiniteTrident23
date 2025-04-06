@@ -15,6 +15,16 @@ Motivated student pursuing a degree in Computers and Communication Engineering. 
 - <a href="https://github.com/InfiniteTrident23/Miscellaneous-Python-Projects">Miscellaneous Python Projects...</a>
 
 ## Experience
+- Cyber Security Internship; 10/2024-11/2025, SafeYourWeb - Remote
+    - Conducted vulnerability assessments on 4 projects, identifying and mitigating 80% of critical risks.
+    - Assisted with security audits, ensuring 100% compliance with industry standards.
+    - Investigated and Reported security incidents, contributing to a 30% improvement in incident response time.
+    - Applied security tools like firewalls, IDS/IPS, and encryption in real world environment, reducing unauthorized access attempts by 40%.
+    - Applied regular security patches and updates, minimizing system vulnerabilities by 90%.
+    - Researched and analyzed cybersecurity threats, enhancing proactive threat detection by 60%.
+    - Worked with cross-functional teams, integrating security best practices into 100% of assigned projects.
+    - Verified security activities and prepared detailed reports, improving risk assessment processes by 25%.
+
 - Cyber-security Intern; 05/2024-07/2024, Wesecure Technologies - New Delhi, India
     - Reviewed firewall configurations and rulesets for optimal performance, reducing exposure to external threats.
     - Evaluated new cybersecurity tools and technologies, ensuring that the organization remained up-to- date on industry best practices.
@@ -24,9 +34,7 @@ Motivated student pursuing a degree in Computers and Communication Engineering. 
     - Provided technical support during scheduled maintenance windows, ensuring minimal disruption to critical systems.
     - Participated in tabletop exercises designed to simulate real-world cyber-attack scenarios, enhancing preparedness levels among team members.
 
-- Devskillhub Cybersecurity training and Internship; 04/2024-06/2024, Devskillhub
-  - Gained valuable experience working within a specific industry, applying learned concepts directly into relevant work situations.
-  - Gained hands-on experience in various software programs, increasing proficiency and expanding technical skill set.
+
  
 ## Tools
 - Network Security Analysis: Snort, Zeek, Wazuh, NetworkMiner, etc.
