@@ -64,6 +64,7 @@ Aspiring Penetration Tester with a strong foundation in cybersecurity and hands-
 - Fortigate Firewall: 100D
 
 ## Certifications
+- CEH: Certified Ethical Hacker
 - CCNA Certified
 - Cisco Ethical Hacker
 - EC Council EHE
