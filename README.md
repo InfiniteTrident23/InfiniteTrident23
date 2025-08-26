@@ -35,7 +35,7 @@ Aspiring **Penetration Tester** with a strong foundation in cybersecurity and ha
 
 ## 🚀 Projects
 
-- [CCE-ERP]([https://github.com/InfiniteTrident23/ERP-SYS](https://github.com/ERP-MUJ/ERP-SYS))
+- [CCE-ERP]((https://github.com/ERP-MUJ/ERP-SYS))
 - [Active Directory Security Lab](https://github.com/InfiniteTrident23/AD-security-Project)
 - [Warehouse Management System](https://github.com/InfiniteTrident23/Warehouse-Management)
 - [Python Voice Assistant](https://github.com/InfiniteTrident23/C.L.A.I.R.E-Demo)
