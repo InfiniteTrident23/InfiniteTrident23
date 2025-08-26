@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/99eb551e-5265-4c37-98c8-f81484511155" width="220" style="border-radius: 50%;" alt="profile banner"/>
+  <img src="https://tryhackme-badges.s3.amazonaws.com/InfiniteHax.png" alt="Your Image Badge" />
 </p>
 
 <p align="center">
